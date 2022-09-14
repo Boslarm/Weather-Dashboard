@@ -6,6 +6,7 @@ The purpose of this assignment is to demonstrate my understanding and implimenta
 Also, our instructor asked us to use the City URL and display the data provided by API URL. UV index is not present in new free version of the API, and what we as a class are noticing, LAT and LON values are also not working in given URL
 
 ## Live Link
+[Live Link](https://boslarm.github.io/Weather-Dashboard/)
 
 ## Screenshot
 ![Webpage Screenshot](./Assets/Weather%20Dashboard%20Screenshot.jpg)
